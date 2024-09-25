@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "test-palak"
-  }
+    "default": "test-palak",
+    "assignment2palak": "assignment2palak"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
