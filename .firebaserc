@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "test-palak",
+    "default": "assignment2palak",
     "assignment2palak": "assignment2palak"
   },
   "targets": {},
